@@ -36,9 +36,7 @@ Targeted for Children and Youth
 Installation and Setup
 Steps to Run the Project
 Clone the repository:
-
-git clone: https://github.com/aryanchauhan3800/SpaceNasa.git
-
+clone the git
 Navigate to the project folder:
 cd NASA_SPACE_APP
 
